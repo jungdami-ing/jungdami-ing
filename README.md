@@ -3,7 +3,7 @@
 
 </br></br>
 ![Dami's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungdami-ing&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungdami-ing&layout=compact)](https://github.com/jungdami-ing/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungdami-ing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
